@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo(a), ao meu GitHub (: 👋
+### Olá! Seja bem vindo(a) ao meu GitHub (: 👋
 - 📖 Formada em Administração, pós-graduanda em Coding & Tech Journey na FIAP e aluna de React no Programa Entra21 da Blusoft.
 - ⚡ Estudando front-end (HTML, CSS, JS, React...)
 
