@@ -1,8 +1,10 @@
-## Olá! Seja bem vindo(a) ao meu GitHub (: 👋
-- 📖 Formada em Administração, pós-graduanda em Coding & Tech Journey na FIAP e aluna de React no Programa Entra21 da Blusoft.
-- ⚡ Estudando front-end (HTML, CSS, JS, React...).
+##  Hi, welcome to my GitHub! 😛
 
- ### Contato: 
+- 🫡 I'm Lara, a technology enthusiast and a dedicated problem solver!
+- 📖 I have a background in Administration and am currently enrolled in the Coding & Tech Journey postgraduate program at FIAP. Additionally, I am actively learning React through the Entra21 program offered by Blusoft.
+- 📒 My focus of study lies in front-end development, where I engage with a range of technologies including HTML, CSS, JavaScript, and React, to mention a few.
+
+ ### Contact: 
 <a href="https://www.linkedin.com/in/lara-berns-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div align="center">
