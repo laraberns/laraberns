@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/lara-berns-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div align="center">
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laraberns&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraberns&theme=tokyonight)
 </div>
