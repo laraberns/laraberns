@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Lara! A tech enthusiast and dedicated problem solver with a background in Business Administration. Currently, I am on a journey of continuous learning:
+Hi, I'm Lara! A tech enthusiast and dedicated problem solver with a background in Business Administration at Udesc. Currently, I am on a journey of continuous learning:
 
 - Enrolled in the Coding & Tech Journey postgraduate program at FIAP.
 - Pursuing a Bachelor's in Analysis and Systems Development at INFNET.
