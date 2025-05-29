@@ -6,16 +6,6 @@ Hi, I'm Lara! A tech enthusiast and dedicated problem solver with a background i
 
 I love diving into new challenges and continuously expanding my skill set!
 
-## Tech Stack
-
-My focus is on full-stack web development, and I work with various technologies, including:
-
-- **Front-end**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS
-- **Back-end**: Node.js, Express, Next.js
-- **Database**: PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub, GitLab
-- **Testing**: Jest, Mocha, Chai
-
 ## Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lara-berns-pereira/)!
